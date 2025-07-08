@@ -46,8 +46,6 @@ pip install spotipy google-auth-oauthlib google-api-python-client python-dotenv
 Crea un archivo .env con tus credenciales de Spotify:
 
 env
-Copiar
-Editar
 SPOTIPY_CLIENT_ID=tu_client_id
 SPOTIPY_CLIENT_SECRET=tu_client_secret
 SPOTIPY_REDIRECT_URI=http://localhost:8080
@@ -55,8 +53,6 @@ Descarga las credenciales de Google (client_secret_google.json) desde Google Clo
 
 ▶️ Ejecución
 bash
-Copiar
-Editar
 python main.py
 El script te pedirá iniciar sesión en Google en la primera ejecución.
 Cada vez que lo ejecutes continuará desde donde lo dejaste.
