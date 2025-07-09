@@ -13,6 +13,7 @@ Este proyecto permite clonar automáticamente tus playlists de Spotify en YouTub
 🔁 Soporte para playlists largas (más de 100 canciones) gracias a la paginación.
 
 📂 Estructura de archivos
+
 .env: Credenciales de Spotify.
 
 client_secret_google.json: Credenciales OAuth de Google.
